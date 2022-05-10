@@ -1,7 +1,7 @@
 
 
 
-## Descrição do trabalho
+## Descrição do Trabalho
 O trabalho consiste na especificação e desenvolvimento de um sistema organização do nosso ginásio que é constituído pelas entidades (Cliente, os fornecedores, funcionários) que são:
 O cliente tem uma forma de identificação, como vários clientes não podem ter o mesmo número de identificação, o Cartão identificação vem com o número de cliente, morada e o número de telefone e a suposta foto do cliente, idade.
 Temos também o pagamento que pode ser semanal ou mensal temos várias maneiras de pagamento como multibanco, dinheiro em mão, Mb Way.
